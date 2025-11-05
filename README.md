@@ -26,3 +26,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 <br/>
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
+
+---
+
+![mvtss's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mvtss&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
