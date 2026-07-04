@@ -4,8 +4,8 @@
 ---
   ➤👩🏻‍💻 Soon-to-be CS Engineer passionate about sciences and complexity <br/>
   ➤👩🏻‍🎓 Proud owner of a Bachelor in CS and Networking, and working to be an ML/AI Engineer by 2028 <br/>
-  ➤🎨 Mixing computer stuff and other *art* is my 2nd passion <br/>
-  ➤💭 My moto is to never stop learning. As of today, I'm trying to learn : ***C, Theory of ML*** <br/>
+  ➤🎨 Mixing computer and other form of *art* <br/>
+  ➤💭 Never stop learning. As of today, learning : ***C, ML, Neurology*** <br/>
 
 
 ---
